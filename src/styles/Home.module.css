@@ -7,7 +7,9 @@
 }
 
 .header {
-  padding: 4rem 0 2rem 0;
+  /* padding: 4rem 0 2rem 0; */
+  padding-top: 4rem;
+  padding-bottom: 2rem;
 }
 
 .main {
